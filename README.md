@@ -2,7 +2,7 @@
 
 #### Video Demo: <URL HERE>
 
-## Description:
+## Description
 
 This is a simple **REACT** web app, that helps you improve your _typing speed_ . It is very useful and it always focuses on your typing skill with speed and accuracy. This application gathers a handful of interesting exercise for the users that will help them to type fast and accurately. There are a lot of lessons to improve your typing skill. The lessons will allow you practicing typing fast and accurate with a sequence.
 
